@@ -1,0 +1,5 @@
+Plaintext
+User-agent: *
+Allow: /
+
+Sitemap: https://charlie-cafe.netlify.app/sitemap.xml
